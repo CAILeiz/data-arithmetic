@@ -1,0 +1,9 @@
+{
+  "name": "0122",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "md5-node": "^1.0.1"
+  }
+}
